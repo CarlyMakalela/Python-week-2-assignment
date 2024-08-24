@@ -1,7 +1,5 @@
 # Python-week-2-assignment
 
-# Week Two Python Assignment
-
 This repository contains the solution for the Week Two Python assignment, where we perform various operations on a list in Python.
 
 ## Assignment Description
